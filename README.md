@@ -1,4 +1,4 @@
-#Descirption of the code:
+Descirption of the code:
 The avl.cpp will take inputs from a text file that will command the program to either 
 insert or delete a node in a tree or print the entire tree. At every insert and deletion, 
 the tree will be run through a balancing function to balance the tree properly using the
